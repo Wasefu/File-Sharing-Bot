@@ -7,15 +7,15 @@
     "sharing"
   ],
   "repository": "https://github.com/CodeXBotz/File-Sharing-Bot",
-  "logo": "https://ibb.co/FgPVtzw",
+  "logo": "https://ibb.co/Gv18Z7LJ",
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "7969818461:AAGzaYXpi3vo_Hi5SFBMEm2AKLbZjcepLik"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "1250450587"
+      "value": "7125448912"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
